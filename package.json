@@ -27,7 +27,7 @@
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.26.1",
+    "webpack": "^4.28.4",
     "webpack-auto-inject-version": "^1.2.2",
     "webpack-cli": "^3.1.2"
   },
